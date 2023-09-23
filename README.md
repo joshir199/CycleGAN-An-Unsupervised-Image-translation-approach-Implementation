@@ -31,6 +31,10 @@ EPOCHS (=10) has been kept small as it needs very high computation power. The ge
 
 ->  Training result showing how generator learns to generate better images with style transfer
 
+# Training loss graph
+
+![](https://github.com/joshir199/CycleGAN-An-Unsupervised-Image-translation-approach-Implementation/blob/main/output/cucleGAN_traning_loss_graph.png)
+
 ********************************************
 # Test results
 
